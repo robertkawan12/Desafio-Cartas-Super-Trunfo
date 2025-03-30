@@ -1,15 +1,24 @@
-# Super Trunfo de Países
+# Super Trunfo de Países - Versão Final
 
-Projeto desenvolvido como parte do desafio de programação em C.
 
-## Nível Aventureiro - Novas Funcionalidades
+Projeto completo do jogo Super Trunfo desenvolvido em C, contendo todos os níveis:
+- Básico: Cadastro de cartas
+- Intermediário: Cálculos avançados
+- Avançado: Sistema de batalha
 
-- Cálculo de densidade populacional (hab/km²)
-- Cálculo de PIB per capita (em reais)
-- Exibição formatada dos novos dados
+## Funcionalidades Implementadas
 
-## Como executar
+✅ Cadastro de duas cartas com múltiplos atributos  
+✅ Cálculo de densidade populacional e PIB per capita  
+✅ Cálculo do Super Poder (métrica composta)  
+✅ Sistema completo de comparação entre cartas  
+✅ Tratamento de tipos de dados avançados (unsigned long int)  
 
-1. Compile o programa:
-   ```bash
-   gcc super_trunfo.c -o super_trunfo
+## Como Executar
+
+```bash
+# Compilar
+gcc super_trunfo.c -o super_trunfo -Wall -Wextra
+
+# Executar
+./super_trunfo
