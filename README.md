@@ -2,10 +2,11 @@
 
 Projeto desenvolvido como parte do desafio de programação em C.
 
-## Funcionalidades
+## Nível Aventureiro - Novas Funcionalidades
 
-- Cadastro de cartas de países com diversas informações
-- Exibição organizada dos dados das cartas
+- Cálculo de densidade populacional (hab/km²)
+- Cálculo de PIB per capita (em reais)
+- Exibição formatada dos novos dados
 
 ## Como executar
 
